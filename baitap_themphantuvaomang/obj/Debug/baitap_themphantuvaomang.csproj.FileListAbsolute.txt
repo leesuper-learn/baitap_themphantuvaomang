@@ -1,0 +1,7 @@
+E:\C#\online\W04\Mang1chieu\baitap_themphantuvaomang\baitap_themphantuvaomang\bin\Debug\baitap_themphantuvaomang.exe.config
+E:\C#\online\W04\Mang1chieu\baitap_themphantuvaomang\baitap_themphantuvaomang\bin\Debug\baitap_themphantuvaomang.exe
+E:\C#\online\W04\Mang1chieu\baitap_themphantuvaomang\baitap_themphantuvaomang\bin\Debug\baitap_themphantuvaomang.pdb
+E:\C#\online\W04\Mang1chieu\baitap_themphantuvaomang\baitap_themphantuvaomang\obj\Debug\baitap_themphantuvaomang.csproj.AssemblyReference.cache
+E:\C#\online\W04\Mang1chieu\baitap_themphantuvaomang\baitap_themphantuvaomang\obj\Debug\baitap_themphantuvaomang.csproj.CoreCompileInputs.cache
+E:\C#\online\W04\Mang1chieu\baitap_themphantuvaomang\baitap_themphantuvaomang\obj\Debug\baitap_themphantuvaomang.exe
+E:\C#\online\W04\Mang1chieu\baitap_themphantuvaomang\baitap_themphantuvaomang\obj\Debug\baitap_themphantuvaomang.pdb
